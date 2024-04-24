@@ -12,23 +12,23 @@ home:
   follow:
     title: 'Bạn thích IT-tools?'
     p1: 'Hãy cho chúng tôi một ngôi sao trên'
-    githubRepository: 'Kho GitHub IT-Tools'
+    githubRepository: 'Kho GitHub JK-Tools'
     p2: 'hoặc theo dõi chúng tôi trên'
-    twitterAccount: 'Tài khoản Twitter IT-Tools'
+    twitterAccount: 'Tài khoản Twitter JK-Tools'
     thankYou: 'Cảm ơn bạn!'
   nav:
     github: 'Kho GitHub'
-    githubRepository: 'Kho GitHub IT-Tools'
+    githubRepository: 'Kho GitHub JK-Tools'
     twitter: 'Tài khoản Twitter'
     twitterAccount: 'Tài khoản Twitter IT Tools'
-    about: 'Về IT-Tools'
+    about: 'Về JK-Tools'
     aboutLabel: 'Giới thiệu'
     darkMode: 'Chế độ tối'
     lightMode: 'Chế độ sáng'
     mode: 'Chuyển đổi chế độ tối/sáng'
 about:
   content: >
-    # Về IT-Tools
+    # Về JK-Tools
 
     Website tuyệt vời này, được tạo ra bằng ❤ bởi [BigdataZjk](https://github.com/BigdataZjk), tổng hợp các công cụ hữu ích cho nhà phát triển và những người làm việc trong lĩnh vực IT. Nếu bạn thấy nó hữu ích, xin đừng ngần ngại chia sẻ cho những người mà bạn nghĩ sẽ thấy nó hữu ích và đừng quên đánh dấu nó trong thanh lối tắt của bạn!
 

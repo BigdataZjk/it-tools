@@ -7,28 +7,28 @@ home:
   toggleMenu: 'Toggle menu'
   home: Home
   uiLib: 'UI Lib'
-  support: 'Apoyar el desarrollo de IT-Tools'
+  support: 'Apoyar el desarrollo de JK-Tools'
   buyMeACoffee: 'Buy me a coffee'
   follow:
     title: 'Te gustan las it-tools?'
     p1: 'Danos una estrella en'
-    githubRepository: 'Repositorio de IT-Tools en GitHub'
+    githubRepository: 'Repositorio de JK-Tools en GitHub'
     p2: 'o síguenos en'
-    twitterAccount: 'Cuenta de twitter de IT-Tools'
+    twitterAccount: 'Cuenta de twitter de JK-Tools'
     thankYou: 'Muchas gracias!'
   nav:
     github: 'Repositorio en github'
-    githubRepository: 'IT-Tools GitHub repository'
+    githubRepository: 'JK-Tools GitHub repository'
     twitter: 'Cuenta de Twitter'
     twitterAccount: 'Cuenta de twitter de IT Tools'
-    about: 'Sobre  IT-Tools'
+    about: 'Sobre  JK-Tools'
     aboutLabel: 'Sobre'
     darkMode: 'Modo obscuro'
     lightMode: 'Modo claro'
     mode: 'Alternar modo oscuro/claro'
 about:
   content: >
-    # Sobre IT-Tools
+    # Sobre JK-Tools
 
     Este maravilloso sitio web, hecho con ❤ por [BigdataZjk](https://github.com/BigdataZjk) , agrega herramientas útiles para desarrolladores y personas que trabajan en IT. Si lo encuentra útil, no dude en compartirlo con las personas que crea que también pueden encontrarlo útil y ¡no olvide marcarlo como favorito en su barra de accesos directos!
 

@@ -60,7 +60,10 @@ const tools = computed<ToolCategory[]>(() => [
 
         <div class="footer">
           <div>
-            JK-Tools
+            JK-Tools -
+            <c-link target="_blank" rel="noopener" href="https://github.com/BigdataZjk/it-tools/tree/master/it-tools-424">
+              Ver424
+            </c-link>
           </div>
           <div>
             © {{ new Date().getFullYear() }}
