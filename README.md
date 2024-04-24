@@ -1,4 +1,4 @@
-![logo](.github/logo.png)
+![logo](./it-tools-424/.github/logo.png)
 
 适用于开发人员和IT人员的有用工具, [去看看](https://it-tools.tech).
 
